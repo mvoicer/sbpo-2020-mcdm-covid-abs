@@ -1,1 +1,9 @@
 # sbpo-2020-mcdm-covid-abs
+
+Codes for the paper published in SBPO 2020 entitled "TOMADA DE DECISÃO MULTICRITÉRIO PARA CLASSIFICAÇÃO DE POLÍTICAS DE ENFRENTAMENTO À COVID-19". Available at: https://proceedings.science/sbpo-2020/papers/tomada-de-decisao-multicriterio-para-classificacao-de-politicas-de-enfrentamento-a-covid-19
+
+
+Abstract: A pandemia do COVID-19 tem trazido inúmeros desafios à sociedade. Para auxiliar os gestores públicos, este trabalho objetivou a criação e ranqueamento de diferentes políticas de enfrentamento à pandemia, geradas por um modelo de simulação baseado em agentes. Utilizando o pacote "COVID-ABS", diferentes cenários foram propostos variando o percentual de isolamento social de 0% (não fazer nada) a 100% (Lockdown). Posteriormente, o método multicritério TOPSIS foi utilizado para avaliar cada uma destas políticas, considerando critérios epidemiológicos (número de infectados, mortos e internações hospitalares) e econômicos (PIB pessoas e empresas). Os resultados indicam que as melhores alternativas são aquelas com altas taxas de isolamento, sendo 90% a primeira delas, seguida de Lockdown. Elas representam as preferências dos decisores entre minimizar a disseminação do coronavirus e suavizar as perdas econômicas. Este estudo serve para apoiar os decisores na implementação de políticas que auxiliem na mitigação da pandemia.
+
+How to cite in ABNT format:
+Lucas Pimenta de Souza et al. TOMADA DE DECISÃO MULTICRITÉRIO PARA CLASSIFICAÇÃO DE POLÍTICAS DE ENFRENTAMENTO À COVID-19. In: ANAIS DO LII SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2020, João Pessoa. Anais eletrônicos... Campinas, Galoá, 2020. Disponível em: <https://proceedings.science/sbpo-2020/papers/tomada-de-decisao-multicriterio-para-classificacao-de-politicas-de-enfrentamento-a-covid-19> Acesso em: 24 mar. 2022.
